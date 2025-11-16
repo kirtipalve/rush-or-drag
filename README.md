@@ -1,6 +1,7 @@
 # Rush or Drag
 
 An AI application that teaches you to sing on beat using onset detection. 
+Try it out here - https://rush-or-drag-project.vercel.app/
 
 ## Prerequisites
 

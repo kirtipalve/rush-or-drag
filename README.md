@@ -1,6 +1,7 @@
 # Rush or Drag
 
-A modern web application built with React, TypeScript, and Vite.
+An AI application that teaches you to sing on beat using onset detection. 
+Try it out here - https://rush-or-drag-project.vercel.app/
 
 ## Prerequisites
 
